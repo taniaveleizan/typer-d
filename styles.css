@@ -1,0 +1,48 @@
+body{
+    display: flex;
+    justify-content: center;
+    font-size: 1.2em;
+    font-family: 'Kanit', sans-serif;
+    background-image: url(imagen/e9ef7a90f739e742038cc65e6a87dc91.gif);
+    background-size: cover;
+    color: #10191a;
+    text-shadow: #9cfaff 1px 0 10px;
+}
+
+.container{
+    background-color: rgba(137, 43, 226, 0.726);
+    border: 3px solid rgb(137, 43, 226);
+    border-radius: 30px;
+    padding: 20px;
+    width: 500px;
+    margin-top: 10vh;
+    text-align: center;
+}
+
+h2{
+    font-family: 'Press Start 2P', cursive;
+}
+
+h1{
+    font-size: 2.5em;
+}
+
+input{
+    height: 40px;
+    font-size: 1.3em;
+}
+
+button{
+    padding: 10px;
+    background-color: darkorchid;
+    color: azure;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.end-game-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
